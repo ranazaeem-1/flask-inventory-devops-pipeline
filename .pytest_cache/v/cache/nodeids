@@ -1,0 +1,12 @@
+[
+  "tests/test_selenium.py::test_01_home_page_redirects_to_login",
+  "tests/test_selenium.py::test_02_register_new_user",
+  "tests/test_selenium.py::test_03_login_with_invalid_credentials",
+  "tests/test_selenium.py::test_04_login_with_valid_credentials",
+  "tests/test_selenium.py::test_05_add_new_item",
+  "tests/test_selenium.py::test_06_edit_item",
+  "tests/test_selenium.py::test_07_search_functionality",
+  "tests/test_selenium.py::test_08_delete_item",
+  "tests/test_selenium.py::test_09_update_profile",
+  "tests/test_selenium.py::test_10_logout_functionality"
+]
